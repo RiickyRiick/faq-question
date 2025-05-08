@@ -19,7 +19,7 @@ document.addEventListener('click', (event) => {
       document.querySelectorAll('.faq-answer').forEach(answer => {
         answer.classList.remove('show');
       });
-      // Reset all icons
+      
       document.querySelectorAll('.toggle-icon').forEach(icon => {
         icon.src = './assets/images/icon-plus.svg';
       });
