@@ -22,8 +22,7 @@ This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://w
 
 ## Overview
 
-This project took a bit longer to execute because I had to review my Javascript. I mainly focused on .addEventListener and classList.toggle, which were the rules I used for executing the hidden and image transition and for clicking outside the menu, which then hides the menu again. 
-HTML felt a lot quicker to execute. However, the CSS this time around was a little bit more challenging since I had to pair it with Javascript to make sure the functionality was responding correctly. 
+This project took a bit longer to execute because I had to review my JavaScript. I mainly focused on .addEventListener and classList.toggle, which were the rules I used for implementing the hidden and image transition, and for clicking outside the menu, which then hides the menu again. HTML felt a lot quicker to execute. However, the CSS this time was a bit more challenging since I had to pair it with JavaScript to ensure the functionality was responding correctly.
 
 ### The challenge
 
